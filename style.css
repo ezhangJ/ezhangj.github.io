@@ -1,0 +1,133 @@
+body{
+    margin:0;
+}
+#wrapper{
+    margin: 0px;
+}
+.page{
+    margin:0px;
+    padding:0px;
+    display: flex;
+}
+#page1{
+    background-color:#BDEDFF;
+    margin:0px;
+    vertical-align:top;
+}
+#page2{
+    background-color: #E0FFFF;
+    margin:0px;
+    vertical-align:top; 
+}
+#page3{
+    background-color:#C2DFFF; /*#ADDFFF;*/
+    margin:0px;
+    vertical-align:top; 
+}
+
+b{
+    font-size: 24px;
+}
+#titlebar{
+    margin-top:60px;
+    background-color:#F0FFFF;
+    height:140px;
+}
+#title{
+	line-height: 1.75;
+    /*color:#114b5f;*/
+    font-family: 'Raleway', serif;
+    font-size:80px;
+    margin-left:20px;
+    margin-right:20px;
+}
+h1{
+    /*color:#114b5f;*/
+    font-family: 'Raleway', serif;
+    font-size:65px;
+    margin-left:80px;
+}
+p{
+    /*color:#114b5f;*/
+    font-family: 'Raleway', sans-serif;
+    font-size:22px;
+    line-height:200%;
+    margin-bottom: 50px;
+}
+#nav{
+    position: fixed;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    top: 0px;
+    height: 30px;
+    width: 100%;
+    background-color: #114b5f;
+}
+.navlink{
+    margin-left:10px;
+    margin-right:10px;
+    color:white;
+    text-decoration:none;
+    font-family: 'Raleway', serif;
+    font-size:22px;
+    text-align:center;
+}
+.navlink:hover{
+    text-decoration:underline;
+}
+a.anchor {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
+}
+#navtable{
+    width: 100%;
+    text-align: center;
+    border: 0px;
+}
+.flex-item-container{
+    display: inline;
+    width: 100%;
+}
+#about-me-container{
+    margin-left: 80px;
+    text-align: left;
+}
+#experience-container{
+    margin-left: 80px;
+    margin-right: 80px;
+    text-align: left;
+}
+#toolbox-container{
+    width:70%;
+}
+#projects-container{
+    margin-left: 80px;
+    text-align: left;
+    margin-right: 80px;
+}
+#connect-container{
+    width: 100%;
+}
+.experience-logo{
+    width: 300px;
+}
+.experience-description{
+    vertical-align: top;
+}
+.clickable{
+    opacity: 0.5;
+}
+#picture-of-me{
+    margin-right: 3%;
+}
+.projects-description{
+    text-align: left;
+}
+.headers{
+    margin-left: 80px;
+}
+.toolbox-paragraphs{
+    margin-bottom: 20px;
+}
