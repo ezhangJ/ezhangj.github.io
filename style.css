@@ -29,26 +29,33 @@ b{
     font-size: 24px;
 }
 #titlebar{
-    margin-top:60px;
+    margin-top:0px;
     background-color:#F0FFFF;
-    height:140px;
+    height:600px;
+}
+#icons{
+	position:relative;
+	top:230px;
+	right: 20px;
 }
 #title{
-	line-height: 1.75;
-    /*color:#114b5f;*/
+	/*line-height:  ;1.75*/
+	position:relative;
+	top:220px;
+    color:#114b5f;
     font-family: 'Raleway', serif;
-    font-size:80px;
+    font-size:65px;
     margin-left:20px;
     margin-right:20px;
 }
 h1{
-    /*color:#114b5f;*/
+    color:#114b5f;
     font-family: 'Raleway', serif;
     font-size:65px;
     margin-left:80px;
 }
 p{
-    /*color:#114b5f;*/
+    color:#114b5f;
     font-family: 'Raleway', sans-serif;
     font-size:22px;
     line-height:200%;
@@ -126,6 +133,7 @@ a.anchor {
     text-align: left;
 }
 .headers{
+	font-size: 250%;
     margin-left: 80px;
 }
 .toolbox-paragraphs{
