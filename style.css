@@ -112,6 +112,7 @@ h2{
 	font-weight:lighter;
 }
 p{
+	display: inline-block;
     color:#FFFFFF;
     font-family: 'Raleway', sans-serif;
     /*font-size: 110%;*/
