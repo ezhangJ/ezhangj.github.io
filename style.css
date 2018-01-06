@@ -96,13 +96,14 @@ p{
     margin-top: 8px;
     margin-bottom: 60px;
   	margin-right:auto;
+  	margin-left:auto;
   	width:70%;
     text-align: center;
 
 }
-tr{
+/*tr{
 	position: center;
-}
+}*/
 .flex-item-container{
     display: inline;
     width: 100%;
@@ -117,6 +118,8 @@ tr{
 }
 .projects-description
 {
+	margin-left: 
+	margin-right
 	margin-bottom: 30px;
 	text-align:center;
 
