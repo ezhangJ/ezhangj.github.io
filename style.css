@@ -122,8 +122,10 @@ p{
     margin-bottom: 5%;*/
     margin-top: 30px;
     margin-bottom: 60px;
-    margin-left:175px;
-    margin-right:175px;
+    margin-left:10%; 
+    margin-right:10%;
+    /*margin-left:175px;
+    margin-right:175px;*/
     text-align: center;
 }
 .flex-item-container{
