@@ -120,7 +120,7 @@ p{
     /*margin-top: 3.5%;
     margin-bottom: 5%;*/
     margin-top: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 60px;
     margin-left:175px;
     margin-right:175px;
     text-align: center;
@@ -136,6 +136,10 @@ p{
 #projects-container{
 	/*margin-bottom: 5%;*/
 
+}
+.project-description
+{
+	margin-bottom: 50px;
 }
 .clickable:hover{
     opacity: 0.5;
