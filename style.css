@@ -41,6 +41,20 @@ body{
 	    background-position: center center;
 	    height:600px;
 	}
+	p{
+    color:#FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    /*font-size: 110%;*/
+    font-size: 18px;
+    line-height:200%;
+    /*margin-top: 3.5%;
+    margin-bottom: 5%;*/
+    margin-top: 30px;
+    margin-bottom: 50px;
+    /*margin-left:175px;
+    margin-right:175px;*/
+    text-align: center;
+}
 }
 #titlebar{
     margin-top:0px;
