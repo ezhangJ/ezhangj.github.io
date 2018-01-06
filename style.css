@@ -100,6 +100,9 @@ p{
     text-align: center;
 
 }
+tr{
+	position: center;
+}
 .flex-item-container{
     display: inline;
     width: 100%;
@@ -115,6 +118,7 @@ p{
 .projects-description
 {
 	margin-bottom: 30px;
+	text-align:center;
 
 }
 .clickable:hover{
