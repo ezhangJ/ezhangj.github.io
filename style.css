@@ -37,8 +37,9 @@ b{
     background-image: url("Assets/background.JPG");
     background-size: 100%;                 
     background-repeat: no-repeat;
-    background-position: center center;
-    height:600px;
+    background-position: center /*center*/;
+    /*height:800px;*/
+    height: 100vh;
 }
 #title{
 	position:relative;
