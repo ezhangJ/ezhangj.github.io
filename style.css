@@ -114,8 +114,16 @@ p{
     /*text-align: left;*/
 }
 #projects-container{
+    margin-top: 30px;
 	margin-bottom: 30px;
 
+}
+#resume{
+    color: #FFFFFF;
+    position: relative; 
+    font-family: 'Raleway', serif;
+    font-size: 20px;
+    /*margin-top: 45px;*/
 }
 .projects-description
 {
