@@ -39,7 +39,7 @@ b{
     background-repeat: no-repeat;
     background-position: center /*center*/;
     /*height:800px;*/
-    height: 100vh;
+    height: 100%;
 }
 #title{
 	position:relative;
